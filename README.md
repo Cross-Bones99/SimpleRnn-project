@@ -1,0 +1,1 @@
+""This is an simple project about NLP in deep learning(RNN)""
